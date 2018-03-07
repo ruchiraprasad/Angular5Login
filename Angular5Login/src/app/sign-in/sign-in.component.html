@@ -1,0 +1,17 @@
+<form #loginForm="ngForm" class="col s12 white" (ngSubmit)="onSubmit(loginForm)">
+    <div class="row">
+      <div class="input-field col s12">
+        <input type="text" #UserName="ngModel" name="username" [(ngModel)]="userService.selectedUser.username" placeholder="Username">
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s12">
+        <input type="password" #Password="ngModel" name="password" [(ngModel)]="userService.selectedUser.password" placeholder="Password">
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s12">
+        <button type="submit" class="btn-large btn-submit">Login</button>
+      </div>
+    </div>
+  </form>
