@@ -9,5 +9,5 @@ export const appRoutes : Routes = [
     { 
         path : 'login', component : SignInComponent
     },
-    { path : 'login', redirectTo : '/login', pathMatch : 'full' }
+    { path : '', redirectTo : '/login', pathMatch : 'full' }
 ]
