@@ -1,0 +1,22 @@
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.deps.json
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.runtimeconfig.json
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.runtimeconfig.dev.json
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.dll
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.csprojResolveAssemblyReference.cache
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.AssemblyInfo.cs
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.pdb
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.dll
+C:\Blog\Net Core JWT with Angular 5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.pdb
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.deps.json
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.runtimeconfig.json
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.runtimeconfig.dev.json
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.dll
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\bin\Debug\netcoreapp2.0\NetCoreWebAPI.pdb
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.csprojResolveAssemblyReference.cache
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.AssemblyInfoInputs.cache
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.AssemblyInfo.cs
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.dll
+C:\Blog\Net_Core_JWT_With_Angular_5\NetCoreWebAPI\NetCoreWebAPI\obj\Debug\netcoreapp2.0\NetCoreWebAPI.pdb
